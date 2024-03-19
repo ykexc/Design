@@ -1,0 +1,14 @@
+package Theme;
+
+public interface IAdapter {
+
+
+    void f1();
+
+    void f2();
+
+    void f3();
+
+    void f4();
+
+}
